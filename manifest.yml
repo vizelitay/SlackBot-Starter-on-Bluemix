@@ -7,7 +7,7 @@ declared-services:
     label: conversation
     plan: free
   SlackBot-watson_vision_combined:
-    label: watson_vision_combined
+    label: Visual Recognition
     plan: free
   SlackBot-natural-language-understanding:
     label: natural-language-understanding
